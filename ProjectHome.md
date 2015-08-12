@@ -1,0 +1,1 @@
+This library provides functions for operating compressed full-text indexes.
